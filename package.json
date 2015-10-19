@@ -1,0 +1,19 @@
+{
+  "name": "jscs-import-spaces",
+  "version": "1.0.0",
+  "description": "Require spaces in import brackets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredly/jscs-import-spaces.git"
+  },
+  "author": "Jared Forsyth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredly/jscs-import-spaces/issues"
+  },
+  "homepage": "https://github.com/jaredly/jscs-import-spaces#readme"
+}
